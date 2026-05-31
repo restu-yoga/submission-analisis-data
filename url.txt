@@ -1,0 +1,2 @@
+Dashboard dapat dijalankan secara lokal dengan perintah:
+streamlit run dashboard/dashboard.py
