@@ -1,2 +1,4 @@
-Dashboard belum dideploy. Jalankan secara lokal dengan perintah:
+Jalankan secara lokal dengan perintah:
 streamlit run dashboard/dashboard.py
+Versi deploy:
+https://submissionrestu.streamlit.app/
