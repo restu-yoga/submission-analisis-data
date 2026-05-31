@@ -1,2 +1,4 @@
 Dashboard dapat dijalankan secara lokal dengan perintah:
 streamlit run dashboard/dashboard.py
+Secara cloud:
+https://submissionrestu.streamlit.app/
